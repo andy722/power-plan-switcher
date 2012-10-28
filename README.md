@@ -22,3 +22,9 @@ schemes.
 Written in C# (3.5, I guess). Well, I'd be more comfortable using something 
 JVM-based, but, honestly, Java on Windows desktop still sucks.
 
+
+# Download
+
+The full version is [here](https://github.com/downloads/andy722/power-plan-switcher/PlanSwitcher.exe).
+It also acts as an installer, copying the executable to the startup folder 
+on first run.
