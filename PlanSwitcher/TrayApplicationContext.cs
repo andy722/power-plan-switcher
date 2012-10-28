@@ -81,23 +81,23 @@ namespace PlanSwitcher
             Icon icon;
             if (percentValue >= 86)
             {
-                icon = new Icon(isCharging ? "res/batt-ch-4.ico" : "res/batt-4.ico");
+                icon = isCharging ? Properties.Resources.batt_ch_4 : Properties.Resources.batt_4;
             }
             else if (percentValue >= 62)
             {
-                icon = new Icon(isCharging ? "res/batt-ch-3.ico" : "res/batt-3.ico");
+                icon = isCharging ? Properties.Resources.batt_ch_3 : Properties.Resources.batt_3;
             }
             else if (percentValue >= 38)
             {
-                icon = new Icon(isCharging ? "res/batt-ch-2.ico" : "res/batt-2.ico");
+                icon = isCharging ? Properties.Resources.batt_ch_2 : Properties.Resources.batt_2;
             }
             else if (percentValue >= 14)
             {
-                icon = new Icon(isCharging ? "res/batt-ch-1.ico" : "res/batt-1.ico");
+                icon = isCharging ? Properties.Resources.batt_ch_1 : Properties.Resources.batt_1;
             }
             else
             {
-                icon = new Icon(isCharging ? "res/batt-ch-0.ico" : "res/batt-0.ico");
+                icon = isCharging ? Properties.Resources.batt_ch_0 : Properties.Resources.batt_0;
             }
 
             notifyIcon.Icon = icon;

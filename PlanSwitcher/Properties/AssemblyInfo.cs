@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Automatically switches power scheme depending on power cable connection")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Andy Belsky")]
-[assembly: AssemblyProduct("PPS")]
-[assembly: AssemblyCopyright("Andy Belsky")]
+[assembly: AssemblyProduct("Power Plan Switcher")]
+[assembly: AssemblyCopyright("Andy Belsky (andy@abelsky.com)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

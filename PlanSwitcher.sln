@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanSwitcher", "PlanSwitcher\PlanSwitcher.csproj", "{0E81FDA8-766B-4400-A04C-E486EF932584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantiationChecker", "InstantiationChecker\InstantiationChecker.csproj", "{8A640324-AFE9-4009-BC04-846E0FB6DB2F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{0E81FDA8-766B-4400-A04C-E486EF932584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E81FDA8-766B-4400-A04C-E486EF932584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E81FDA8-766B-4400-A04C-E486EF932584}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8A640324-AFE9-4009-BC04-846E0FB6DB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8A640324-AFE9-4009-BC04-846E0FB6DB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8A640324-AFE9-4009-BC04-846E0FB6DB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8A640324-AFE9-4009-BC04-846E0FB6DB2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
